@@ -14,7 +14,7 @@ In that I have created 3 page report:
 To build Porject below concept I used:
 
 -DAX querires
--calculate coulmn, 
+-calculate coulmn 
 -calculate measures
 -calculaet funcation
 -Multipe visulaization chart 
