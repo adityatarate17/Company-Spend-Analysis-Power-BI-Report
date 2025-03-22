@@ -13,10 +13,10 @@ In that I have created 3 page report:
 
 To build Porject below concept I used:
 
--DAX querires
+-DAX 
 -calculate coulmn 
 -calculate measures
--calculaet funcation
+-calculate funcation
 -Multipe visulaization chart 
 -Insert image
 -Page nevigation
